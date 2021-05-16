@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smileyblue77
-- 👀 I’m interested in languages, social justice, and education technology.
+- 👀 I’m interested in languages, social justice, and education technology
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
 
 <!---
