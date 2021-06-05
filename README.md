@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @smileyblue77
-- 👀 I’m interested in languages, social justice, and education technology
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
+- 👀 Interested in languages, social justice, and education technology
+- 🌱 Currently coding a psycholinguistic study on PCIbex
+- ✅ Proficient in HTML, CSS, JavaScript, and R (all intermediate level)
+- 📚 Learning Python and developing my other CS skills
 
 <!---
 smileyblue77/smileyblue77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
